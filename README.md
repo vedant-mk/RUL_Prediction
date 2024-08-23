@@ -1,10 +1,6 @@
-# RUL_Prediction - 
-• Implemented a random forest regressor to ensemble base models for predicting the Remaining Useful Life (RUL) of aircraft engines.
-• Developed base models using deep learning techniques including Bi-GRU, Bi-TRNN, Bi-LSTM, DCNN, and ProgNet, achieving competitive RMSE scores ranging from 13 to 15 across multiple datasets with varying complexities.
-• Developed a predictive maintenance model to estimate the remaining operational life of aircraft engines.
-• Employed deep learning models as base learners within an ensemble framework to capture intricate
-degradation patterns in engine performance.
-• Explored various sensor data, including temperature, pressure, and speed, to identify early indicators of
-engine failure and Visualized the same .
-• Implemented techniques such as time-series analysis, feature engineering, and model ensembling
-(Bi-LSTM, Bi-TRNN, DCNN, Bi-GRU, ProgNet) to enhance prediction accuracy.
+# RUL_Prediction -
+
+- **Implemented an ensemble-based predictive maintenance model using a Random Forest Regressor to predict the Remaining Useful Life (RUL) of aircraft engines.**
+- **Developed base models leveraging deep learning techniques, including Bi-GRU, Bi-TRNN, Bi-LSTM, DCNN, and ProgNet, achieving competitive RMSE scores between 13 and 15 across datasets of varying complexity.**
+- **Utilized sensor data (temperature, pressure, speed) to identify early indicators of engine failure and visualized degradation patterns.**
+- **Applied time-series analysis, feature engineering, and deep learning models within an ensemble framework to accurately estimate the remaining operational life of aircraft engines.**
